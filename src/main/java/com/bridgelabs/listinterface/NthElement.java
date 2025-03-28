@@ -35,7 +35,7 @@ public class NthElement {
         list.add("D");
         list.add("E");
 
-        int N = 2;
+        int N = 3;
         System.out.println(findNthFromEnd(list, N));
     }
 }
